@@ -11,7 +11,6 @@
     <a href="/profil">profil</a>
     <a href="/sosmed">sosmed</a>
     
-
-    <h1>hallo</h1>
+    
 </body>
 </html>
